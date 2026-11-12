@@ -1,0 +1,11 @@
+../Core/Src/ec_sensor.c:23:14:rel	24	static
+../Core/Src/ec_sensor.c:29:6:EC_Init	16	static
+../Core/Src/ec_sensor.c:51:6:EC_Calibrate	16	static
+../Core/Src/ec_sensor.c:63:9:EC_Calibrated	4	static
+../Core/Src/ec_sensor.c:68:6:EC_Update	40	static
+../Core/Src/ec_sensor.c:127:7:EC_Error	4	static
+../Core/Src/ec_sensor.c:132:7:EC_Strength	4	static
+../Core/Src/ec_sensor.c:137:9:EC_OnTrack	4	static
+../Core/Src/ec_sensor.c:142:10:EC_Raw	16	static
+../Core/Src/ec_sensor.c:147:10:EC_Relative	24	static
+../Core/Src/ec_sensor.c:159:10:EC_Baseline	16	static

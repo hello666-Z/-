@@ -1,0 +1,9 @@
+../Core/Src/knob.c:26:16:clamp_percent	3
+../Core/Src/knob.c:39:13:knob_irq	7
+../Core/Src/knob.c:67:6:Knob_Init	3
+../Core/Src/knob.c:79:8:Knob_PopDelta	1
+../Core/Src/knob.c:87:9:Knob_GetPercent	1
+../Core/Src/knob.c:92:6:Knob_SetPercent	1
+../Core/Src/knob.c:97:6:Knob_AddPercent	1
+../Core/Src/knob.c:102:9:Knob_Activity	2
+../Core/Src/knob.c:110:6:HAL_GPIO_EXTI_Callback	3

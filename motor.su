@@ -1,0 +1,8 @@
+../Core/Src/motor.c:14:16:clamp_ccr	16	static
+../Core/Src/motor.c:32:13:drive_channel	32	static
+../Core/Src/motor.c:73:6:Motor_Init	8	static
+../Core/Src/motor.c:90:6:Motor_SetSigned	32	static
+../Core/Src/motor.c:111:6:Motor_Stop	8	static
+../Core/Src/motor.c:124:6:Motor_Coast	8	static
+../Core/Src/motor.c:136:9:Motor_LeftCommand	4	static
+../Core/Src/motor.c:141:9:Motor_RightCommand	4	static

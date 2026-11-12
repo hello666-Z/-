@@ -1,0 +1,9 @@
+../Core/Src/knob.c:26:16:clamp_percent	16	static
+../Core/Src/knob.c:39:13:knob_irq	16	static
+../Core/Src/knob.c:67:6:Knob_Init	16	static
+../Core/Src/knob.c:79:8:Knob_PopDelta	16	static
+../Core/Src/knob.c:87:9:Knob_GetPercent	4	static
+../Core/Src/knob.c:92:6:Knob_SetPercent	16	static
+../Core/Src/knob.c:97:6:Knob_AddPercent	16	static
+../Core/Src/knob.c:102:9:Knob_Activity	8	static
+../Core/Src/knob.c:110:6:HAL_GPIO_EXTI_Callback	16	static

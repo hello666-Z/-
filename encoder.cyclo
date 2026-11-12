@@ -1,0 +1,8 @@
+../Core/Src/encoder.c:28:6:Encoder_Init	1
+../Core/Src/encoder.c:47:6:Encoder_Update	1
+../Core/Src/encoder.c:68:7:Encoder_LeftMms	1
+../Core/Src/encoder.c:73:7:Encoder_RightMms	1
+../Core/Src/encoder.c:78:7:Encoder_AverageMms	1
+../Core/Src/encoder.c:83:9:Encoder_LeftDelta	1
+../Core/Src/encoder.c:88:9:Encoder_RightDelta	1
+../Core/Src/encoder.c:93:7:Encoder_DistanceMm	1
